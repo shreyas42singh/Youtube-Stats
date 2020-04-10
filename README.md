@@ -23,7 +23,7 @@ It is important to keep this key safe. Also remember that there is per day quota
 `video_stats_by_playlist.py`
 For this a playlist id is required for the playlist that you want to analyse. This can be found after `?list=` in the play list page. Use this id for the variable `playlist_id`. 
 
-![](/home/shreyas/fun/youtube-conf/images/playlist.png)
+![](images/playlist.png)
 
 
 
